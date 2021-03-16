@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Bot-Net/static/css/main.975c362b.chunk.css",
+    "main.js": "/Bot-Net/static/js/main.caac817a.chunk.js",
+    "main.js.map": "/Bot-Net/static/js/main.caac817a.chunk.js.map",
+    "runtime-main.js": "/Bot-Net/static/js/runtime-main.af320971.js",
+    "runtime-main.js.map": "/Bot-Net/static/js/runtime-main.af320971.js.map",
+    "static/css/2.fe359a49.chunk.css": "/Bot-Net/static/css/2.fe359a49.chunk.css",
+    "static/js/2.05606f9b.chunk.js": "/Bot-Net/static/js/2.05606f9b.chunk.js",
+    "static/js/2.05606f9b.chunk.js.map": "/Bot-Net/static/js/2.05606f9b.chunk.js.map",
+    "static/js/3.980bfd3c.chunk.js": "/Bot-Net/static/js/3.980bfd3c.chunk.js",
+    "static/js/3.980bfd3c.chunk.js.map": "/Bot-Net/static/js/3.980bfd3c.chunk.js.map",
+    "index.html": "/Bot-Net/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/Bot-Net/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.975c362b.chunk.css.map": "/Bot-Net/static/css/main.975c362b.chunk.css.map",
+    "static/js/2.05606f9b.chunk.js.LICENSE.txt": "/Bot-Net/static/js/2.05606f9b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Bot-Net/static/media/EasterWishesPersonalUse-p7xmd.5cce60f7.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af320971.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.05606f9b.chunk.js",
+    "static/css/main.975c362b.chunk.css",
+    "static/js/main.caac817a.chunk.js"
+  ]
+}
